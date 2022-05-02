@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbflo
-- 👀 I’m interested in  Python. JS, Java
-- 🌱 I’m currently learning React, Ai / Machin learning, 
-- 💞️ I’m looking to collaborate on ReactJS, control system
+- 👀 I’m interested in  Python. JS / React, Java
+- 🌱 I’m currently learning Ai / Machin learning, 
+- 💞️ I’m looking to collaborate on ReactJS, Python, control system
 - 📫 How to reach me ...
 
 <!---
